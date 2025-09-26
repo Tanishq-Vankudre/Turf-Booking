@@ -1,5 +1,4 @@
 
-<br/>
 <h1>🏏 Turf Booking ⚽</h1>
 
 A Flutter app to easily find and book sports turfs. Users can browse, view details, and make reservations. Turf managers get an admin login to manage bookings and turf info.
@@ -85,5 +84,6 @@ flutter run
 ## 📄 License
 
 This project is for educational/demo purposes. 
+
 
 
